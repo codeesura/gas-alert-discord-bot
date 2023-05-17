@@ -50,5 +50,5 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/codeesura/gas-alert-discord-bot/blob/main/LICENSE) file for more information.
 
